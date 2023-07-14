@@ -137,6 +137,69 @@
                         </a>
                 </td>
         </tr>
+        <tr>
+                <td align='center' width="190" height="20%">
+                        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                                        alt="python" width="40" />
+                        </a>
+                </td>
+                <td align='center' width="190" height="20%">
+                        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                                        alt="csharp" width="40" />
+                        </a>
+                </td>
+                <td align='center' width="190" height="20%">
+                        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                                        alt="mongodb" width="40" />
+                        </a>
+                </td>
+                <td align='center' width="190" height="20%">
+                        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+                                        alt="expressjs" width="40" />
+                        </a>
+                </td>
+                <td align='center' width="190" height="20%">
+                        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                                        alt="reactjs" width="40" />
+                        </a>
+                </td>
+                <td align='center' width="190" height="20%">
+                        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                                        alt="nodejs" width="40" />
+                        </a>
+                </td>
+        </tr>
+        <tr>
+                <td align='center' width="190" height="20%">
+                        <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+                                <img src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67"
+                                        alt="selenium" width="40" />
+                        </a>
+                </td>
+                <td align='center' width="190" height="20%">
+                        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"
+                                        alt="flask" width="40" />
+                        </a>
+                </td>
+                <td align='center' width="190" height="20%">
+                        <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"
+                                        alt="numpy" width="40" />
+                        </a>
+                </td>
+                <td align='center' width="190" height="20%">
+                        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"
+                                        alt="pandas" width="40" />
+                        </a>
+                </td>
         </tr>
 </table>
 </p>
